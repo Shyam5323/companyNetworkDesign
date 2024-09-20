@@ -48,6 +48,6 @@ Thorough testing was conducted to ensure that all network components and configu
 
 ## Resources
 
-- **Packet Tracer File**: [Download Packet Tracer File](link-to-file)
+- **Packet Tracer File**: [Download Packet Tracer File](https://drive.google.com/file/d/1IFtXmCgCecBOS07Qhg_qPwBiDka6j_m5/view?usp=drive_link)
 
 
